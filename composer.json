@@ -1,0 +1,8 @@
+{
+	"config": {
+        "disable-tls": true,
+        "secure-http": false
+    },
+	"require":{},
+	"autoload":{}
+}
